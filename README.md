@@ -1,2 +1,2 @@
-# ds4400project
-NBA Player Clustering
+# NBA Player Clustering Project
+Please see project report for more details.
